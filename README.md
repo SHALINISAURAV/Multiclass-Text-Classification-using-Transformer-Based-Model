@@ -1,4 +1,5 @@
 # Multiclass-Text-Classification-using-Transformer-Based-Model
+
 Transformer-Based Text Classification: Human vs AI Generated Text
 This project focuses on text classification using transformer-based models to detect whether a given text is human-generated or AI-generated.
 It leverages Hugging Face's transformers library along with PyTorch and scikit-learn for model training and evaluation.
@@ -13,6 +14,7 @@ text → The input text
 label → 0 for Human, 1 for AI
 genre → Type of text (e.g., news, reviews, etc.)
 model → Model used for AI generation (if available)
+
 ⚙️ Installation & Requirements
 Install dependencies with:
 
